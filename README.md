@@ -1,7 +1,7 @@
-Para correr la aplicación, abrirla desde Eclipse y hostearla en Glassfish. \
-El index.html incluye redirección a ambos formularios. \
+Para correr la aplicación, abrirla desde Eclipse y hostearla en Glassfish. 
+El index.html incluye redirección a ambos formularios. 
 
-Imágenes dentro de la web:  \
+Imágenes dentro de la web:  
 
 Index: \
 ![image](https://github.com/jsc1013/SistemasDistribuidosSesion08/assets/118318415/605cfcc9-6a24-4fb9-b4f6-71ee0c314f80)
